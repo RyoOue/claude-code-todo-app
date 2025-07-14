@@ -144,3 +144,7 @@ CREATE TABLE categories (
 2. Initialize D1 database: `npx wrangler d1 create todos-db`
 3. Run migrations: `npm run db:migrate`
 4. Start dev server: `npm run dev`
+
+## Task Completion Guidelines
+
+- Run typecheck and lint after completing tasks and be sure they ALWAYS pass
